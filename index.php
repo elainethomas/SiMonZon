@@ -38,9 +38,11 @@
 	</head>
 
 
-	<body background="images/space2.jpg" id="clickbutt" onload="allTehAds()">
+	<body background="images/space2.jpg">
 		<h1>SiMonZon has A Proposal..</h1>
 		<img src="images/simonzon1.png" alt="SiMon LLoron">
+		<img src="images/mouse.gif"  id="ratgif" alt="dancerat" id="clickbutt" onload="allTehAds()">
+
 		<div id="youWantThis"></div>
 
 		<div class="content">
@@ -63,7 +65,6 @@
 			<!--<h3>SiMonZon Needs Your Help To Take Over Earth!!</h3>
 			<button >Click Here to Support SiMonZon</button>
 	  -->
-<img src="images/mouse.gif"
 
 		</div>
 	</body>
