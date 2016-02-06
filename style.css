@@ -1,5 +1,8 @@
 /* Styles go here */
 
+body {
+	color:gray;
+}
 h1 {
 	font-family: 'Audiowide', cursive;
 }
@@ -10,9 +13,3 @@ span {
 .content {
 	font-family: 'Josefin Sans', sans-serif;
 }
-
-img {
-	width:200px;
-	height:250px;
-}
-

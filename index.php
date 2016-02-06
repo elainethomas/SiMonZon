@@ -63,7 +63,7 @@
 			<!--<h3>SiMonZon Needs Your Help To Take Over Earth!!</h3>
 			<button >Click Here to Support SiMonZon</button>
 	  -->
-
+<img src="images/mouse.gif"
 
 		</div>
 	</body>

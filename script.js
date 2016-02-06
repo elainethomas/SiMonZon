@@ -1,5 +1,5 @@
 //Click Button Pop up Box
-window.onload=function(){setTimeout(allTehAds,4000)}; {
+function allTehAds() {
 	var a;
 	if (confirm("All Paws In?") === true) {
 		a = "To Earth We Go!";
@@ -8,6 +8,7 @@ window.onload=function(){setTimeout(allTehAds,4000)}; {
 	}
 	document.getElementById("youWantThis").innerHTML = a;
 }
+
 
 //onchange HTML show phrases
 function sentiments() {
@@ -24,5 +25,3 @@ function sentiments() {
  *
  *
  **/
-
-
