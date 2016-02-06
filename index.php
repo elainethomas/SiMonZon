@@ -38,7 +38,7 @@
 	</head>
 
 
-	<body id="clickbutt" onload="allTehAds()">
+	<body background="images/space.jpg" id="clickbutt" onload="allTehAds()">
 		<h1>SiMonZon has A Proposal..</h1>
 		<img src="images/simonzon1.png" alt="SiMon LLoron">
 		<div id="youWantThis"></div>
