@@ -41,7 +41,7 @@
 	<body background="images/space2.jpg">
 		<h1>SiMonZon has A Proposal..</h1>
 		<img src="images/simonzon1.png" alt="SiMon LLoron">
-		<img src="images/mouse.gif"  id="ratgif" alt="dancerat" id="clickbutt" onload="allTehAds()">
+		<img src="images/mouse.gif" alt="dancerat" id="clickbutt" onload="allTehAds()">
 
 		<div id="youWantThis"></div>
 
