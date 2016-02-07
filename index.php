@@ -36,18 +36,18 @@
 
 		<!-- My own personal JavaScript -->
 		<script src="script.js"></script>
-		<title>SiMonZon's has a Proposal for the Romulan Senate..</title>
+		<title>Praeter SiMonZon</title>
 	</head>
 
 		<body background="images/space2.jpg" id="clickbutt" onload="allTehAds()">
+			<img src="images/mouse.gif" class="ratgif "alt="dance rat">
 			<h1>SiMonZon Needs Your Help To Take Over Earth!!</h1>
+			<img src="images/mouse.gif" class="ratgif2 "alt="dance rat">
 			<img src="images/simonzon1.png" class="simonzon" alt="Si'mon LLoron">
 
 			<div id="youWantThis"></div>
 			<div id="quiereThis"></div>
-			<div>
-				<img src="images/mouse.gif" class="ratgif "alt="dance rat">
-			</div>
+			<div></div>
 			<div class="content">
 				<h2><q>SiMonZon is the Reman alternative you've been looking for..</q><br><span>(he was under the bed)</span></h2>
 				<hr>

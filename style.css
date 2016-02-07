@@ -15,12 +15,13 @@ span {
 }
 
 .simonzon{
-margin-left: 400px;
+width:250px;
+height:300px;
 }
 
 .ratgif {
 	float:right;
-	margin-right: 410px;
+	margin-right: 10px;
 	margin-top:0px;
 	height:100px;
 	width:100px;
@@ -28,4 +29,12 @@ margin-left: 400px;
 
 .youWantThis {
 	text-align: center;
+}
+
+.ratgif2 {
+	float:left;
+	margin-left: 10px;
+	margin-top:0px;
+	height:100px;
+	width:100px;
 }
