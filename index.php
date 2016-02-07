@@ -41,12 +41,12 @@
 
 		<body background="images/space2.jpg" id="clickbutt" onload="allTehAds()">
 			<h1>SiMonZon Needs Your Help To Take Over Earth!!</h1>
-			<img src="http://placehold.it/150x250" alt="Si'mon LLoron">
+			<img src="images/simonzon1.png" alt="Si'mon LLoron">
 
 			<div id="youWantThis"></div>
 			<div id="quiereThis"></div>
 			<div class="ratgif">
-				<img src="http://placehold.it/75x75" alt="dance rat">
+				<img src="images/mouse.gif" alt="dance rat">
 			</div>
 			<div class="content">
 				<h2><q>SiMonZon is the Reman alternative you've been looking for..</q><br><span>(he was under the bed)</span></h2>
