@@ -104,13 +104,7 @@
 				</div>
 			</div>
 			<hr>
-
-
-				<!--
-				<button >Click Here to Support SiMonZon</button>
-		  -->
-
-
+			  <p>Si'mon-zon guarantees your safety, no more litterbox attacks from the Ambassadors of Sirius.</p>
 			</div>
 		</body>
 
