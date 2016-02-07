@@ -15,7 +15,7 @@ span {
 }
 
 .simonzon{
-margin-left: 600px;
+margin-left: 400px;
 }
 
 .ratgif {
@@ -24,4 +24,8 @@ margin-left: 600px;
 	margin-top:0px;
 	height:100px;
 	width:100px;
+}
+
+.youWantThis {
+	text-align: center;
 }

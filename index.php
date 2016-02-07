@@ -13,7 +13,7 @@
 		<!-- Optional theme -->
 		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous" />
 
-		<--Google Fonts-->
+		<!--Google Fonts-->
 		<link href='https://fonts.googleapis.com/css?family=Audiowide' rel='stylesheet' type='text/css'>
 		<link href='https://fonts.googleapis.com/css?family=Josefin+Sans:700' rel='stylesheet' type='text/css'>
 		<link href='https://fonts.googleapis.com/css?family=Permanent+Marker' rel='stylesheet' type='text/css'>
@@ -41,7 +41,7 @@
 
 		<body background="images/space2.jpg" id="clickbutt" onload="allTehAds()">
 			<h1>SiMonZon Needs Your Help To Take Over Earth!!</h1>
-			<img src="images/simonzon1.png" alt="Si'mon LLoron">
+			<img src="images/simonzon1.png" class="simonzon" alt="Si'mon LLoron">
 
 			<div id="youWantThis"></div>
 			<div id="quiereThis"></div>
