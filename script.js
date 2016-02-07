@@ -15,6 +15,7 @@ function allTehAds() {
 		a = "Why you cancel?";
 	}
 	document.getElementById("youWantThis").innerHTML = a;
+	return moarAds();
 }
 
 
