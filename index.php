@@ -40,9 +40,21 @@
 	</head>
 
 		<body background="images/space2.jpg" id="clickbutt" onload="allTehAds()">
-			<img src="images/mouse.gif" class="ratgif "alt="dance rat">
-			<h1>SiMonZon Needs Your Help To Take Over Earth!!</h1>
-			<img src="images/mouse.gif" class="ratgif2 "alt="dance rat">
+			<div class="row">
+				<div class="col-md-2">
+					<img src="images/mouse.gif" class="ratgif "alt="dance rat">
+				</div>
+				<div class="col-md-10">
+				<h1>SiMonZon Needs Your Help To Take Over Earth!!</h1>
+				</div>
+				<div class="col-md-2">
+					<div class="col-md-4"><img src="images/mouse.gif" class="ratgif "alt="dance rat">
+				</div>
+			</div>
+			<div class="row">
+
+
+
 			<img src="images/simonzon1.png" class="simonzon" alt="Si'mon LLoron">
 
 			<div id="youWantThis"></div>
