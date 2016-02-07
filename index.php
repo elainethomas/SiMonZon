@@ -40,43 +40,70 @@
 	</head>
 
 		<body background="images/space2.jpg" id="clickbutt" onload="allTehAds()">
+			<div class="container-fluid">
 			<div class="row">
 				<div class="col-md-2">
 					<img src="images/mouse.gif" class="ratgif "alt="dance rat">
 				</div>
-				<div class="col-md-10">
-				<h1>SiMonZon Needs Your Help To Take Over Earth!!</h1>
+				<div class="col-md-8">
+				<h1>SiMonZon Needs Your Help To Defeat Earth!!</h1>
 				</div>
 				<div class="col-md-2">
-					<div class="col-md-4"><img src="images/mouse.gif" class="ratgif "alt="dance rat">
+					<img src="images/mouse.gif" class="ratgif "alt="dance rat">
 				</div>
 			</div>
+			 </div>
+
+			<div class="container">
 			<div class="row">
-
-
-
-			<img src="images/simonzon1.png" class="simonzon" alt="Si'mon LLoron">
+			  <div class="span4"></div>
+				<div class="span4"><img src="images/simonzon1.png" class="center-block" alt="Si'mon LLoron"></div>
+				<div class="span4"></div>
+			</div>
+			</div>
 
 			<div id="youWantThis"></div>
-			<div id="quiereThis"></div>
-			<div></div>
-			<div class="content">
-				<h2><q>SiMonZon is the Reman alternative you've been looking for..</q><br><span>(he was under the bed)</span></h2>
+			<!-- <div id="quiereThis"></div> -->
+			<div class="container">
+			<div class="row">
+				<div class="span4"></div>
+				<div class="span4">
+					<div class="content">
+						<h2><q>SiMonZon is the  <span class="strike">Reman</span>  <span class="strike">Romulan</span>  <span class="strike">Feline?</span>  clone alternative you've been looking for..</q><br><span id="scratchy">(he was under the bed!!)</span></h2>
+				   </div>
+					<div class="span4"></div>
+				</div>
+				<div class="span4"></div>
+			</div>
+			</div>
 				<hr>
 
+			<div class="container">
+				<div class="row">
+					<div class="span4"></div>
+					<div class="span4">
 				<!-- Select onchange HTML event -->
+				<h3>Read some of SiMonZon's Fuzzy Ideas here..</h3>
+					</div>
+					<div class="span4"></div>
+					<div class="row">
+						<div class="span4"></div>
+						<div class="span4">
 				<select id="selektor" onchange="sentiments()">
-					<option value="">Read some of SiMonZon's Fuzzy Ideas here..
-					<option value="Iz-a-born-leader-its-in-my-DNA">Leadership
+					<option value="">
+					<option value="Its-in-my-DNA">Leadership
 					<option value="Four-Paws-Up">Belly Scratches
 					<option value="Learn-to-Command-Humans-With-One-Well-Placed-Swat">Command
-					<option value="Proudly-Sing-The-Song-Till-The-Foodbringers-Give-In">Treats
+					<option value="No-Need-To-Spray-Just-Use-Thalaron">Revenge
 					<option value="You-Could-Be-The-Next-To-Control-The-Mouse">Control
-
 				</select>
-
 				<div id="youNeedThis"></div>
-				<hr>
+						</div>
+					</div>
+					<div class="span4"></div>
+				</div>
+			</div>
+			<hr>
 
 
 				<!--
