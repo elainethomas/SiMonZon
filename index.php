@@ -13,7 +13,12 @@
 		<!-- Optional theme -->
 		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous" />
 
-		<!-- LOAD OUR CUSTOM STYLESHEET HERE!!11! -->
+		<--Google Fonts-->
+		<link href='https://fonts.googleapis.com/css?family=Audiowide' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Josefin+Sans:700' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Permanent+Marker' rel='stylesheet' type='text/css'>
+
+		<!-- My Own Personal Style Sheet -->
 		<link rel="stylesheet" href="style.css" />
 
 		<!-- HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -29,45 +34,46 @@
 		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
 		<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
-		<title>SiMonZon's Proposal</title>
-		<link rel="stylesheet" href="style.css">
-		<link href='https://fonts.googleapis.com/css?family=Audiowide' rel='stylesheet' type='text/css'>
-		<link href='https://fonts.googleapis.com/css?family=Josefin+Sans:700' rel='stylesheet' type='text/css'>
-		<link href='https://fonts.googleapis.com/css?family=Permanent+Marker' rel='stylesheet' type='text/css'>
+		<!-- My own personal JavaScript -->
 		<script src="script.js"></script>
+		<title>SiMonZon's has a Proposal for the Romulan Senate..</title>
 	</head>
 
+		<body background="images/space2.jpg" id="clickbutt" onload="allTehAds()">
+			<h1>SiMonZon Needs Your Help To Take Over Earth!!</h1>
+			<img src="http://placehold.it/150x250" alt="Si'mon LLoron">
 
-	<body background="images/space2.jpg">
-		<h1>SiMonZon has A Proposal..</h1>
-		<img src="images/simonzon1.png" alt="SiMon LLoron">
-		<img src="images/mouse.gif" alt="dancerat" id="clickbutt" onload="allTehAds()">
+			<div id="youWantThis"></div>
+			<div id="quiereThis"></div>
+			<div class="ratgif">
+				<img src="http://placehold.it/75x75" alt="dance rat">
+			</div>
+			<div class="content">
+				<h2><q>SiMonZon is the Reman alternative you've been looking for..</q><br><span>(he was under the bed)</span></h2>
+				<hr>
 
-		<div id="youWantThis"></div>
+				<!-- Select onchange HTML event -->
+				<select id="selektor" onchange="sentiments()">
+					<option value="">Read some of SiMonZon's Fuzzy Ideas here..
+					<option value="Iz-a-born-leader-its-in-my-DNA">Leadership
+					<option value="Four-Paws-Up">Belly Scratches
+					<option value="Learn-to-Command-Humans-With-One-Well-Placed-Swat">Command
+					<option value="Proudly-Sing-The-Song-Till-The-Foodbringers-Give-In">Treats
+					<option value="You-Could-Be-The-Next-To-Control-The-Mouse">Control
 
-		<div class="content">
-			<h2><q>SiMonZon is the Reman alternative you've been looking for..</q><br><span>(he was under the bed)</span></h2>
-			<hr>
+				</select>
 
-			<!-- Select onchange HTML event -->
-			<select id="selektor" onchange="sentiments()">
-				<option value="">Read some of SiMonZon's Fuzzy Ideas here..
-				<option value="Iz-a-born-leader-its-in-my-DNA">Leadership
-				<option value="Four-Paws-Up">Belly Scratches
-				<option value="Learn-to-Command-Humans-With-One-Well-Placed-Swat">Command
-				<option value="Proudly-Sing-The-Song-Till-The-Foodbringers-Give-In">Treats
-				<option value="You-Could-Be-The-Next-To-Control-The-Mouse">Control
+				<div id="youNeedThis"></div>
+				<hr>
 
-			</select>
 
-			<div id="youNeedThis"></div>
-			<hr>
-			<!--<h3>SiMonZon Needs Your Help To Take Over Earth!!</h3>
-			<button >Click Here to Support SiMonZon</button>
-	  -->
+				<!--
+				<button >Click Here to Support SiMonZon</button>
+		  -->
 
-		</div>
-	</body>
+
+			</div>
+		</body>
 
 </html>
 

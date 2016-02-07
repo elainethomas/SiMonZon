@@ -2,7 +2,15 @@
 function allTehAds() {
 	var a;
 	if (confirm("All Paws In?") === true) {
-		a = "To Earth We Go!";
+		a = function moarAds() {
+			var b;
+			if (confirm("Fur Reals?") === true) {
+				b = "All Paws In!";
+			} else {
+				b = "NooOoooo!!";
+			}
+			document.getElementById("quiereThis").innerHTML = a;
+		};
 	} else {
 		a = "Why you cancel?";
 	}
