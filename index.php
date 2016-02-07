@@ -45,8 +45,8 @@
 
 			<div id="youWantThis"></div>
 			<div id="quiereThis"></div>
-			<div class="ratgif">
-				<img src="images/mouse.gif" alt="dance rat">
+			<div>
+				<img src="images/mouse.gif" class="ratgif "alt="dance rat">
 			</div>
 			<div class="content">
 				<h2><q>SiMonZon is the Reman alternative you've been looking for..</q><br><span>(he was under the bed)</span></h2>
