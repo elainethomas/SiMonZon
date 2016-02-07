@@ -1,6 +1,6 @@
 //Click Button Pop up Box
 
-document.getElementById("youWantThis").innerHTML = allTehAds();
+
 function allTehAds() {
 	var a;
 	if (confirm("Ready to Reclaim the Senate?") === true) {
